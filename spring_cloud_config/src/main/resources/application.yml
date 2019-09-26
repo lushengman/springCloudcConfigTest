@@ -12,6 +12,7 @@ spring:
           uri: https://github.com/lushengman/springCloudcConfigTest.git
           username: lushengman
           password: LSM24682281lsm
+          skip-ssl-validation: true
 #  rabbitmq: #RabbitMQ相关的配置
 #    host: 127.0.0.1
 #    port: 5672
